@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: StudentPaper_part3.pdf
 uid: 023b6f67-d6bf-187d-aec8-fc12dce17074

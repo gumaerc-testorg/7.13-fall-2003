@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: ElectrocompetentRhodoI24andKY1_v2.pdf
 uid: cbb74e8c-cafc-693f-8e79-977c1524dadf

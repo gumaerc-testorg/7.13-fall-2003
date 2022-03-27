@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: ProjectToDoList.pdf
 uid: 06f65781-7cde-b81c-fe3b-474256530b45

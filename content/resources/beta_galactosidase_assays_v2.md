@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Beta_Galactosidase_Assays_v2.pdf
 uid: a7bef23c-e7ca-e622-65f4-7c1c88bd14f3

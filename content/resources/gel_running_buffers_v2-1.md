@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: Gel_Running_Buffers_v2.pdf
 uid: 80811623-64f7-654b-94fa-037bdd625f74

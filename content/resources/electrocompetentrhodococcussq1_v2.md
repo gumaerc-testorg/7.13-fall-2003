@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: ElectrocompetentRhodococcusSQ1_v2.pdf
 uid: 7861e852-b292-1735-31a3-78146e830456

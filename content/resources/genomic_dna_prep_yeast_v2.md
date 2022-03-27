@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Genomic_DNA_Prep_Yeast_v2.pdf
 uid: 881bb0ab-ef27-a63a-6130-f2556598e158

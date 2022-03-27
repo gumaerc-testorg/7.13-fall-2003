@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: Quantitating_Nucleic_Acids_v2.pdf
 uid: db78c3d3-55d3-0db0-a623-4b6aad9e598f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Frozen_stocks_v2.pdf
 uid: e045f8b2-5565-0346-dafd-a131a57b301a

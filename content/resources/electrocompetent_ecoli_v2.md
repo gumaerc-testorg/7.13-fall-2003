@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Electrocompetent_Ecoli_v2.pdf
 uid: 736d8574-e780-a97c-6f98-a4a9bf9eeec0

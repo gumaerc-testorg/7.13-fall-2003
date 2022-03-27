@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Biotin_Detection_v2.pdf
 uid: 6ae10ecd-f7ec-5ca2-a47d-9133ad26d2ac

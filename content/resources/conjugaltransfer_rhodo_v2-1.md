@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: ConjugalTransfer_Rhodo_v2.pdf
 uid: 68c10ec3-9d08-24df-c776-2f65ac94fd94

@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Image
 title: flowchart.jpg
 uid: f4e85dac-2d4f-851d-9306-e568ccc8e0b6

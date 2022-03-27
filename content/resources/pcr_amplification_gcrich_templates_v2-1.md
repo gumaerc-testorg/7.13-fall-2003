@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Document
 title: PCR_Amplification_GCrich_templates_v2.pdf
 uid: 1665439e-0ea3-6668-5067-1cf38a0803f3

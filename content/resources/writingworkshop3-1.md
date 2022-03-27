@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
 resourcetype: Other
 title: WritingWorkshop3.pps
 uid: ee9aa154-f640-02bf-51a4-b6aa3b95dd0c

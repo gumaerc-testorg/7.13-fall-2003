@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: Gel_Loading_Dye_v2.pdf
 uid: 835358fa-db09-7d1e-4e6b-bb7a3c19db0b

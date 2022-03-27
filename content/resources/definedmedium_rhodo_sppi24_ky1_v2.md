@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8534adf2-fa56-7977-9372-13ba3f559c18
 resourcetype: Document
 title: DefinedMedium_Rhodo_sppI24_KY1_v2.pdf
 uid: da1750fb-f76b-790e-7ca5-853214597782
