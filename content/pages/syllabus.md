@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: cdf54a8e-bcff-a8ab-6781-8a17bbb94744
+video_metadata:
+  youtube_id: null
 ---
 
 Research Scope and Background: The Systems
@@ -125,7 +128,7 @@ Also, you are expected to **demonstrate good "team effort"** -- working with you
 
 In addition, you must keep a lab notebook. The notebook is very important as it is key to good experimental practice. Each lab partner should keep his or her own notebook, which will eventually contain all the data collected by the whole team. In this way each partner can consider the results independently.
 
-Refer to the [Lab Notebook Guidelines and Recommendations]({{< baseurl >}}/pages/labs) for specific information on how to use, keep, and maintain a viable lab notebook.
+Refer to the {{% resource_link 8534adf2-fa56-7977-9372-13ba3f559c18 "Lab Notebook Guidelines and Recommendations" %}} for specific information on how to use, keep, and maintain a viable lab notebook.
 
 It is worth noting that the teaching staff is available, in part, to **help you debug your experiments**. Not being able to describe precisely what was done will make this task very difficult. The TAs will check the notebooks for completeness periodically. They must be current. You are responsible for having your previous day's entries completed every day.
 
