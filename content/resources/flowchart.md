@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Effect of overexpressing carotenoid pathway genes in Rhodococcus: dxs, lyc, crtI, crtO, crtE as targets for overexpression
-

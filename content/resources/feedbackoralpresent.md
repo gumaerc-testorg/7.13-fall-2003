@@ -5,6 +5,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2003/46cd527a86d24624de
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of an individual feedback document
-

@@ -5,6 +5,7 @@ file: /courses/7-13-experimental-microbial-genetics-fall-2003/736d8574e780a97c6f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
