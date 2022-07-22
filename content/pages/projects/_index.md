@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
+video_metadata:
+  youtube_id: null
 ---
 
 **THE STUDENT EXPERIENCE**
@@ -18,14 +24,14 @@ Students work in groups of two on a selected project to foster the spirit of col
 
 > **Dr. Lessard:** _Part of the richness and uniqueness of this course is that many students will find that their project will evolve quite differently than what was originally projected._
 
-*   An Example Project ([PDF]({{< baseurl >}}/resources/projectslist))
+*   An Example Project ({{% resource_link 01cce4b8-ad45-7d4e-ae66-b0c244063611 "PDF" %}})
     
 
 Alongside laboratory work, students are required to gain a command of their research area by reading journal articles found from literature searches using the vast array of scientific and medical library resources on the web. To provide a frame of reference for a selected topic, the teaching staff prepares a suggested list of terms for each student's initial literature search effort.
 
 > **Dr. Lessard:** _Given that most students have no prior experience to overcome the activation energy of getting started on a new research project, we provide each group with suggested keywords to use in their literature searches, as a way to get their foot in the door._
 
-*   Example of Suggested Literature Search Terms ([PDF]({{< baseurl >}}/resources/projectlitsearch))
+*   Example of Suggested Literature Search Terms ({{% resource_link 00de8ae3-c87f-518c-da64-df586112fbe8 "PDF" %}})
     
 
 Each group meets individually with the teaching staff in order to learn the relevant hands-on laboratory details involved as well as the overall mission and significance of their project. During this session, students also discuss and plan a strategy and have their specific questions about the project answered.
@@ -34,7 +40,7 @@ Student groups who are waiting for their individual session with the teaching st
 
 > **Dr. Lessard:** _The outcome of this meeting which takes about half an hour or so is that the students should feel comfortable in pursuing their research goals. The lab TO DO list is another jumpstart suggestions guide to help students get started with their projects. For example, this list would tell students which strains they need to culture and which reagents they need to prepare in anticipation of the first actual experiments. The purpose of the strains and reagents will be clear once they have had this meeting with the teaching staff. The bulk of the laboratory work for the rest of the semester is set by each student group's pace._
 
-*   Example of a lab TO DO and initial goals list ([PDF]({{< baseurl >}}/resources/projecttodolist))
+*   Example of a lab TO DO and initial goals list ({{% resource_link 06f65781-7cde-b81c-fe3b-474256530b45 "PDF" %}})
     
 
 **AS THE SEMESTER PROGRESSES: Laboratory and Communication "_Setting the pace..._"**
@@ -49,7 +55,7 @@ Towards the end of the term, each student group gives a progress report presenta
 
 After each oral presentation, the teaching staff provides explicit and personalized feedback to each student as to how they can improve their speaking skills.
 
-*   Example of an individual feedback document ([PDF]({{< baseurl >}}/resources/feedbackoralpresent))
+*   Example of an individual feedback document ({{% resource_link 46cd527a-86d2-4624-de08-d82846aad282 "PDF" %}})
     
 
 WRITING
@@ -60,7 +66,7 @@ After students hand in their writing assignments, Dr. Lessard and Dr. Melvold co
 
 > **Dr. Lessard:** _We make extensive, individualized comments on each student's paper for their specific benefit. Then, in the writing workshop, we address some of the more common problems that many students encounter in their papers._
 
-*   Example Writing Workshop Material ([PPS]({{< baseurl >}}/resources/writingworkshop3-1)) 
+*   Example Writing Workshop Material ({{% resource_link ee9aa154-f640-02bf-51a4-b6aa3b95dd0c "PPS" %}}) 
     
 
 **Instructions** for Viewing the Writing Workshop Material: The writing workshop material is an interactive PowerPoint show document with a \*.pps file extension.
@@ -69,7 +75,7 @@ After students hand in their writing assignments, Dr. Lessard and Dr. Melvold co
     
 *   If you Don't have Microsoft® PowerPoint®: Go [here](/msviewer) for links where you can download a free PowerPoint viewer for your PC or MAC.
     
-*   The non-interactive version of the Writing Workshop Material may also be viewed as a PDF file. ([PDF]({{< baseurl >}}/resources/writingworkshop3_v2))
+*   The non-interactive version of the Writing Workshop Material may also be viewed as a PDF file. ({{% resource_link 5578c078-a764-4cf7-3d00-456f5ebacb55 "PDF" %}})
     
 
 **FINAL PAPERS**
@@ -78,4 +84,4 @@ The final paper is the culmination of the three writing assignments students hav
 
 > **Dr. Lessard:** _It's not as simple as a cut and paste of the three writing assignments into the final paper. Often the focus or experiments change over the course of the research process. For example, some students throw out their initial introductions and write entirely new ones by the time the semester ends._
 
-*   Example Student Final Paper by Caitlin Brennan ([PDF]({{< baseurl >}}/resources/studentpaper))
+*   Example Student Final Paper by Caitlin Brennan ({{% resource_link c68d4197-7c0f-3ccb-fcb7-907a12685a5d "PDF" %}})

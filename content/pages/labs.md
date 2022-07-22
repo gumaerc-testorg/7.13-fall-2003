@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section contains an index of laboratory protocols, with downloadable
+  pdfs, and Guidelines and Recommendations for Lab Notebooks.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 8534adf2-fa56-7977-9372-13ba3f559c18
+video_metadata:
+  youtube_id: null
 ---
 
 **WARNING NOTICE**
@@ -30,7 +37,7 @@ PDF
 AN12 Defined Medium
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/definedmediumforrhodococcusan12_v2))
+({{% resource_link 45a21b98-86c5-66ee-d9da-8450942759b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +46,7 @@ AN12 Defined Medium
 Beta Galactosidase Assays
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/beta_galactosidase_assays_v2))
+({{% resource_link a7bef23c-e7ca-e622-65f4-7c1c88bd14f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +55,7 @@ Beta Galactosidase Assays
 Biotin Detection in Electrophoretic Gels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/biotin_detection_v2))
+({{% resource_link 6ae10ecd-f7ec-5ca2-a47d-9133ad26d2ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +64,7 @@ Biotin Detection in Electrophoretic Gels
 Bradford Assay for Determining Protein Concentration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/bradford_assay_v2))
+({{% resource_link fc2e0518-0552-22c2-267f-691507386d6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +73,7 @@ Bradford Assay for Determining Protein Concentration
 Conjugal Transfer with B264-1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/conjugaltransfer_rhodo_v2))
+({{% resource_link f398b2f7-a25c-0c00-c591-cfd1cd3507df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +82,7 @@ Conjugal Transfer with B264-1
 Culture Media
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/culturemedia_v2))
+({{% resource_link 432d830d-9fdb-7f6a-1c32-a9715c83325f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +91,7 @@ Culture Media
 Defined Medium for _Rhodococcus SPP_ I24 and KY1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/definedmedium_rhodo_sppi24_ky1_v2))
+({{% resource_link da1750fb-f76b-790e-7ca5-853214597782 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +100,7 @@ Defined Medium for _Rhodococcus SPP_ I24 and KY1
 Electrocompetent _Corynebacterium and Rhodococcus B264-1_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/electrocompetent_c_r_b2641_v2))
+({{% resource_link 12258b6d-3dc5-4b7e-458d-199e744ffa6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +109,7 @@ Electrocompetent _Corynebacterium and Rhodococcus B264-1_
 Electrocompetent _E. coli_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/electrocompetent_ecoli_v2))
+({{% resource_link 736d8574-e780-a97c-6f98-a4a9bf9eeec0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +118,7 @@ Electrocompetent _E. coli_
 Electrocompetent _Rhodococcus AN12_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/electrocompetent_rhodoan12_v2))
+({{% resource_link 754737a4-c1f4-2a56-6cf1-0584c19f4a14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +127,7 @@ Electrocompetent _Rhodococcus AN12_
 Electrocompetent _Rhodococcus_ I24 and KY1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/electrocompetentrhodoi24andky1_v2))
+({{% resource_link cbb74e8c-cafc-693f-8e79-977c1524dadf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +136,7 @@ Electrocompetent _Rhodococcus_ I24 and KY1
 Electrocompetent _Rhodococcus_ SQ1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/electrocompetentrhodococcussq1_v2))
+({{% resource_link 7861e852-b292-1735-31a3-78146e830456 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +145,7 @@ Electrocompetent _Rhodococcus_ SQ1
 Ethanol Precipitation of Nucleic Acids in Aqueous Solution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ethanol_precipitation_v2))
+({{% resource_link 39e9cd67-1196-08c3-75bc-d6ebe6079000 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +154,7 @@ Ethanol Precipitation of Nucleic Acids in Aqueous Solution
 Frozen Stocks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/frozen_stocks_v2))
+({{% resource_link e045f8b2-5565-0346-dafd-a131a57b301a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +163,7 @@ Frozen Stocks
 Gel Loading Dye
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gel_loading_dye_v2))
+({{% resource_link 835358fa-db09-7d1e-4e6b-bb7a3c19db0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +172,7 @@ Gel Loading Dye
 Gel Running Buffers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gel_running_buffers_v2))
+({{% resource_link fca78ff0-a713-7035-3f0f-f3c7e9e046a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +181,7 @@ Gel Running Buffers
 Genomic DNA Preparation from _E coli_ Cells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/genomic_dna_prepecoli_v2))
+({{% resource_link 53daae8b-9a2c-d0b1-da1e-2cdd1479674d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +190,7 @@ Genomic DNA Preparation from _E coli_ Cells
 Genomic DNA Mini-Prep
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/genomic_dna_miniprep_v2))
+({{% resource_link 47aaabac-7177-60c5-ec1a-5d727afa1fa9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +199,7 @@ Genomic DNA Mini-Prep
 Genomic DNA Preparation from Yeast
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/genomic_dna_prep_yeast_v2))
+({{% resource_link 881bb0ab-ef27-a63a-6130-f2556598e158 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +208,7 @@ Genomic DNA Preparation from Yeast
 GUS Assays
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gus_assays_v2))
+({{% resource_link 48e63150-3db2-fab3-8f19-518ef4b5e602 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +217,7 @@ GUS Assays
 Maxiprep of Plasmids from _E.Coli_ using Wizard Maxiprep Kit
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/maxiprep_plasmid_dna_v2))
+({{% resource_link a3f3e179-76ba-a63c-d0bc-963166f7dd27 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +226,7 @@ Maxiprep of Plasmids from _E.Coli_ using Wizard Maxiprep Kit
 Partial Digests of Plasmid DNA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/partial_digests_plasmiddna_v2))
+({{% resource_link 37aee908-ac5c-226a-f6c2-0129f247aa66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +235,7 @@ Partial Digests of Plasmid DNA
 PCR Amplification from GC-Rich Templates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pcr_amplification_gcrich_templates_v2))
+({{% resource_link 12783350-b153-6e9b-68fa-a5114d6e53f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +244,7 @@ PCR Amplification from GC-Rich Templates
 Phenol Extraction (for DNA Purification)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/phenol_extraction_v2))
+({{% resource_link 0b97322e-a071-bbf2-3fc8-8e6c3da95a9b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +253,7 @@ Phenol Extraction (for DNA Purification)
 Primer Design for PCR Amplification and Sequencing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/primer_design_pcr_sequencing_v2))
+({{% resource_link 280bcd3f-641a-a2f5-9796-8fa32137bd05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +262,7 @@ Primer Design for PCR Amplification and Sequencing
 Quantitating Nucleic Acids
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quantitating_nucleic_acids_v2))
+({{% resource_link dc250192-8181-3d7d-a3e3-d00b13fcbeae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +271,7 @@ Quantitating Nucleic Acids
 Southern Blotting with Roche DIG Labeling System
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/southern_blotting_v2))
+({{% resource_link 54ae3974-c1d5-23af-9654-57d55b115757 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

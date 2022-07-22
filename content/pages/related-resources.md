@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section contains links related to Literature Searches, and DNA Sequence
+  Analysis.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 06bfd03e-4047-a2b6-8e72-0625cb9b8a57
+video_metadata:
+  youtube_id: null
 ---
 
 Literature Searches
