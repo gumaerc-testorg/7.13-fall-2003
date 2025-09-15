@@ -3,7 +3,7 @@ content_type: page
 description: This section contains an index of laboratory protocols, with downloadable
   pdfs, and Guidelines and Recommendations for Lab Notebooks.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 8534adf2-fa56-7977-9372-13ba3f559c18

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/cbb74e8ccafc693f8e79977c1524dadf_ElectrocompetentRhodoI24andKY1_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/cbb74e8ccafc693f8e79977c1524dadf_ElectrocompetentRhodoI24andKY1_v2.pdf
+file_size: 210949
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

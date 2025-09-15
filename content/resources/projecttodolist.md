@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example of a lab TO DO and initial goals list
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/06f657817cdeb81cfe3b474256530b45_ProjectToDoList.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/06f657817cdeb81cfe3b474256530b45_ProjectToDoList.pdf
+file_size: 126907
 file_type: application/pdf
 learning_resource_types:
 - Projects

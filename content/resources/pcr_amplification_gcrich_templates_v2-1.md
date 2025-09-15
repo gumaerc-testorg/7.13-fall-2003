@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/1665439e0ea3666850671cf38a0803f3_PCR_Amplification_GCrich_templates_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/1665439e0ea3666850671cf38a0803f3_PCR_Amplification_GCrich_templates_v2.pdf
+file_size: 89918
 file_type: application/pdf
 learning_resource_types:
 - Projects

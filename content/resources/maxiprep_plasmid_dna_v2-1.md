@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/2d698ed529f6fc252b5bfa96852efe5a_Maxiprep_Plasmid_DNA_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/2d698ed529f6fc252b5bfa96852efe5a_Maxiprep_Plasmid_DNA_v2.pdf
+file_size: 159783
 file_type: application/pdf
 learning_resource_types:
 - Projects

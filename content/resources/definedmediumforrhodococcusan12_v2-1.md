@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/0418a0a888ff91a1f8fcc8e334fcf00d_DefinedMediumforRhodococcusAN12_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/0418a0a888ff91a1f8fcc8e334fcf00d_DefinedMediumforRhodococcusAN12_v2.pdf
+file_size: 138375
 file_type: application/pdf
 learning_resource_types:
 - Projects

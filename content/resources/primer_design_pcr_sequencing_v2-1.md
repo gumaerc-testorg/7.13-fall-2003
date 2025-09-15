@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/c2a8d1a163953f8b80895a4ab6953083_Primer_Design_PCR_Sequencing_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/c2a8d1a163953f8b80895a4ab6953083_Primer_Design_PCR_Sequencing_v2.pdf
+file_size: 131266
 file_type: application/pdf
 learning_resource_types:
 - Projects

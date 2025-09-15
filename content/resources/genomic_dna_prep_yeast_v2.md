@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Genomic DNA Preparation from Yeast
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/881bb0abef27a63a6130f2556598e158_Genomic_DNA_Prep_Yeast_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/881bb0abef27a63a6130f2556598e158_Genomic_DNA_Prep_Yeast_v2.pdf
+file_size: 146960
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

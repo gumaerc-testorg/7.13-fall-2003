@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/fc2e0518055222c2267f691507386d6e_Bradford_Assay_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/fc2e0518055222c2267f691507386d6e_Bradford_Assay_v2.pdf
+file_size: 158661
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

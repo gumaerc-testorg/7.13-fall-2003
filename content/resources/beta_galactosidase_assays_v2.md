@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/a7bef23ce7cae62265f47c1c88bd14f3_Beta_Galactosidase_Assays_v2.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/a7bef23ce7cae62265f47c1c88bd14f3_Beta_Galactosidase_Assays_v2.pdf
+file_size: 239892
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example Writing Workshop Material
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/ee9aa154f64002bf51a4b6aa3b95dd0c_WritingWorkshop3.pps
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/ee9aa154f64002bf51a4b6aa3b95dd0c_WritingWorkshop3.pps
+file_size: 780800
 file_type: application/msword
 learning_resource_types:
 - Projects

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: An Example Project
-file: /courses/7-13-experimental-microbial-genetics-fall-2003/01cce4b8ad457d4eae66b0c244063611_ProjectsList.pdf
+file: /ol-ocw-studio-app/courses/7-13-experimental-microbial-genetics-fall-2003/01cce4b8ad457d4eae66b0c244063611_ProjectsList.pdf
+file_size: 89614
 file_type: application/pdf
 learning_resource_types:
 - Projects
